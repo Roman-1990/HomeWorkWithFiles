@@ -66,4 +66,12 @@ public class HelperWithFiles {
         XWPFWordExtractor ext = new XWPFWordExtractor(docx);
         return ext.getText();
     }
+
+    void homeWork8() {
+
+
+        System.out.println();
+        System.out.println();
+
+    }
 }

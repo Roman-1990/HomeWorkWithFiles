@@ -74,4 +74,7 @@ public class HelperWithFiles {
         System.out.println();
 
     }
+    public static void gitBoss(String[] args) {
+    System.out.println("Это вторжение:)"));
+    }
 }

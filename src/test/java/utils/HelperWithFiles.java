@@ -66,4 +66,7 @@ public class HelperWithFiles {
         XWPFWordExtractor ext = new XWPFWordExtractor(docx);
         return ext.getText();
     }
+    public static void gitBoss(String[] args) {
+    System.out.println("Это вторжение:)"));
+    }
 }
